@@ -21,5 +21,3 @@ person = Zbl()
 person.working()
 
 person.playgames()
-
-print(person.age)
